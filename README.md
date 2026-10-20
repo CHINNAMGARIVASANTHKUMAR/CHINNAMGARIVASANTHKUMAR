@@ -10,7 +10,7 @@
 
 <p>
   <a href="mailto:chinnamgarivasanthkumar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href=" www.linkedin.com/in/vasanthkumar-chinnamgari-783b88426" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Focus-Network%20Security-7C3AED?style=for-the-badge" alt="Focus: Network Security" />
 </p>
 
