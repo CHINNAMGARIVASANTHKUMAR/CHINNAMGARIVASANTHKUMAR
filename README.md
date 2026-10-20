@@ -100,8 +100,8 @@ APSWRS Junior College, Darsi | 2020–2022 | CGPA: 7.1/10
 ## 🌟 Leadership & Achievements
 
 - NSS Commando — Social Awareness Campaigns (2023–2025)
-- IETE Member & Student Coordinator (2023–2025)
-- 🥇 First Prize — Project Expo, National Innovation Day (2025)
+- Student co-ordinator in BECTAGON (2024-2025)
+- 🥇 First Prize — Promo design compitation (2025)
 
 ## 📊 GitHub Overview
 
@@ -131,7 +131,7 @@ APSWRS Junior College, Darsi | 2020–2022 | CGPA: 7.1/10
 ## 🤝 Connect With Me
 
 - **Email:** [chinnamgarivasanthkumar@gmail.com](mailto:chinnamgarivasanthkumar@gmail.com)
-- **LinkedIn:** Add your actual LinkedIn profile URL here.
+- **LinkedIn:** www.linkedin.com/in/vasanthkumar-chinnamgari-783b88426
 - **GitHub:** `https://github.com/chinnamgari-vasanthkumar`
 
 ---
