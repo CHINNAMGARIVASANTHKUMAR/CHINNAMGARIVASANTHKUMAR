@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Chinnamgari Vasanthkumar — Animated Cybersecurity Profile Banner</title>
+  <desc id="desc">Animated neon network lines, scanning grid, pulsing shield, and cybersecurity profile title.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070b16"/>
+      <stop offset="52%" stop-color="#101b36"/>
+      <stop offset="100%" stop-color="#21104a"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee">
+        <animate attributeName="stop-color" values="#22d3ee;#818cf8;#c084fc;#22d3ee" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#a78bfa">
+        <animate attributeName="stop-color" values="#a78bfa;#22d3ee;#818cf8;#a78bfa" dur="7s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#60a5fa" stroke-opacity=".12" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="clip"><rect width="1200" height="340" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <rect width="1200" height="340" fill="url(#grid)"/>
+    <rect x="-250" y="0" width="170" height="340" fill="#22d3ee" opacity=".06">
+      <animate attributeName="x" from="-250" to="1250" dur="8s" repeatCount="indefinite"/>
+    </rect>
+    <g stroke="url(#neon)" stroke-width="2" fill="none" opacity=".85" filter="url(#glow)">
+      <path d="M700 60H800L830 90H930L960 60H1160" stroke-dasharray="10 9">
+        <animate attributeName="stroke-dashoffset" from="0" to="-190" dur="5s" repeatCount="indefinite"/>
+      </path>
+      <path d="M740 135H810L845 100H930L965 135H1170" stroke-dasharray="7 11">
+        <animate attributeName="stroke-dashoffset" from="0" to="180" dur="6s" repeatCount="indefinite"/>
+      </path>
+      <path d="M710 220H805L840 255H940L975 220H1160" stroke-dasharray="8 10">
+        <animate attributeName="stroke-dashoffset" from="0" to="-200" dur="6.5s" repeatCount="indefinite"/>
+      </path>
+      <path d="M790 300H870L900 270H1020L1050 300H1170" stroke-dasharray="6 10">
+        <animate attributeName="stroke-dashoffset" from="0" to="160" dur="7s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <g fill="#67e8f9">
+      <circle cx="700" cy="60" r="4"><animate attributeName="opacity" values=".3;1;.3" dur="2s" repeatCount="indefinite"/></circle>
+      <circle cx="1170" cy="135" r="4"><animate attributeName="opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+      <circle cx="710" cy="220" r="4"><animate attributeName="opacity" values=".3;1;.3" dur="1.8s" repeatCount="indefinite"/></circle>
+    </g>
+    <g transform="translate(970 76)" fill="none" stroke="url(#neon)" stroke-width="3" filter="url(#glow)">
+      <path d="M55 0L105 18V62c0 39-25 68-50 82C30 130 5 101 5 62V18z">
+        <animateTransform attributeName="transform" type="scale" values="1;1.045;1" dur="3s" repeatCount="indefinite" additive="sum"/>
+      </path>
+      <path d="M31 66l16 16 34-38" stroke="#a5f3fc" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="70" stroke-dashoffset="70">
+        <animate attributeName="stroke-dashoffset" values="70;0;0;70" keyTimes="0;.25;.8;1" dur="4s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <text x="64" y="80" fill="#93c5fd" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="4">CYBERSECURITY • NETWORK DEFENSE</text>
+    <text x="60" y="146" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="43">CHINNAMGARI</text>
+    <text x="60" y="195" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="43">VASANTHKUMAR</text>
+    <rect x="64" y="220" width="410" height="3" rx="2" fill="url(#neon)">
+      <animate attributeName="width" values="90;410;260;410" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    <text x="64" y="256" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="19">Network Security  |  Ethical Hacking  |  Python</text>
+    <text x="64" y="300" fill="#67e8f9" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="3">LEARN • TEST RESPONSIBLY • SECURE BY DESIGN</text>
+    <circle cx="600" cy="25" r="2" fill="#a78bfa"><animate attributeName="cy" values="25;310;25" dur="9s" repeatCount="indefinite"/></circle>
+    <circle cx="660" cy="310" r="2" fill="#22d3ee"><animate attributeName="cy" values="310;25;310" dur="11s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>

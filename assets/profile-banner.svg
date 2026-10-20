@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Vasanth Kumar Chinnamgari — Cybersecurity</title>
+  <desc id="desc">A dark technical banner for a cybersecurity and network security portfolio.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080d1b"/>
+      <stop offset="55%" stop-color="#101b36"/>
+      <stop offset="100%" stop-color="#172554"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+  <g stroke="#60a5fa" stroke-opacity=".20" stroke-width="1">
+    <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200M100 0V320M200 0V320M300 0V320M400 0V320M500 0V320M600 0V320M700 0V320M800 0V320M900 0V320M1000 0V320M1100 0V320"/>
+  </g>
+  <g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".85">
+    <path d="M820 60h70l25 25h70l25-25h90"/>
+    <path d="M850 120h45l25-25h70l25 25h100"/>
+    <path d="M820 190h80l25-25h65l25 25h105"/>
+    <circle cx="820" cy="60" r="5" fill="#22d3ee"/><circle cx="1100" cy="120" r="5" fill="#a78bfa"/>
+    <circle cx="820" cy="190" r="5" fill="#22d3ee"/>
+  </g>
+  <g transform="translate(930 80)" fill="none" stroke="#67e8f9" stroke-width="3" opacity=".85">
+    <path d="M55 0L105 18V62c0 39-25 68-50 82C30 130 5 101 5 62V18z"/>
+    <path d="M31 66l16 16 34-38"/>
+  </g>
+  <text x="64" y="94" fill="#93c5fd" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing="4">CYBERSECURITY • NETWORK DEFENSE</text>
+  <text x="60" y="157" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="43">VASANTH KUMAR</text>
+  <text x="60" y="205" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="43">CHINNAMGARI</text>
+  <rect x="64" y="231" width="400" height="3" rx="2" fill="url(#accent)"/>
+  <text x="64" y="268" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="20">Network Security  |  Ethical Hacking  |  Python</text>
+</svg>
