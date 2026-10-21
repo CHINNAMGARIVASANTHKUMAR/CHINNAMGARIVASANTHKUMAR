@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-  <img src="https://img.shields.io/badge/Focus-Network%20Security-7C3AED?style=for-the-badge" alt="Focus: Network Security" />
+  <img src="https://chinnamgarivasanthkumar.github.io/vasanth-portfolio/#projects" alt="Portfolio: View" />
 </p>
 
 📍 Prakasam, Andhra Pradesh, India  
