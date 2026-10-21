@@ -15,7 +15,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-  <img src="https://chinnamgarivasanthkumar.github.io/vasanth-portfolio/#projects" alt="Portfolio: View" />
+  <a href="https://chinnamgarivasanthkumar.github.io/vasanth-portfolio/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Website-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 📍 Prakasam, Andhra Pradesh, India  
